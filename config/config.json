@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "123456",
-    "database": "fullstackdb",
-    "host": "localhost",
+    "username": "ueea3piyz1x8inzb",
+    "password": "ovDRhLKg7U2GGelU1msP",
+    "database": "byq1watzqhv2xjanff9t",
+    "host": "byq1watzqhv2xjanff9t-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   }
 }
